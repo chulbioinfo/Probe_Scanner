@@ -1,5 +1,6 @@
-# Probe_Scanner
+# Probe_Scanner (v20230123)
 Scanning probe of 16-18 mers for zebra finch
+Developed by Chul Lee (clee03@rockefeller.edu)
 
 ## command
 python Probe_Scanner.py [genome_sequence.fna] [genic_sequence.fna] [k-mer size]
